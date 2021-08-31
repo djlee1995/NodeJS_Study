@@ -1,0 +1,6 @@
+노드js(express)-oracle 연동
+
+1. python 설치
+2. c++설치 (vscode 설치하면 자동으로 설치되므로 vscode 설치했으면 필요 없음)
+3. oracle instant client 설치 - basic, sdk 둘다 설치 후 - sdk 안에 있는 파일들을 basic으로 다 옮겨줌 - 환경변수 설정
+4. npm oracledb 설치
